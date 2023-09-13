@@ -1,6 +1,8 @@
 # number-7016
 Go开发工程师全新版
-### download:daxiacode.com/7016.html
+### 微:NoBug1024 
+
+
 资源介绍：
 ├──01-阶段一：Go语言基础入门和并发编程
 | ├──第01周 Go基础知识入门
